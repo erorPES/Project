@@ -1,4 +1,4 @@
-#include <Wire.h>
+#include <Wire.h> /Некрасов Сергей
 #include <Servo.h>
 Servo servox;
 Servo servoy;
